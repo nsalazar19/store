@@ -1,2 +1,3 @@
 # store
-a way for people to communicate with a store.
+
+hey im store and i was designed to help people comminucate with a store
